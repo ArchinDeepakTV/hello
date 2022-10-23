@@ -7,7 +7,7 @@ h1 {
 
 .flex-container {
     display: flex;
-    background-color: DodgerBlue;
+    background-color: black;
     flex-wrap: wrap;
 }
   
